@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjectFinal</string>
+
+    <string-array name="quizlist">
+        <item>Quiz 1</item>
+        <item>Quiz 2</item>
+        <item>Quiz 3</item>
+        <item>Quiz 4</item>
+        <item>Quiz 5</item>
+        <item>Quiz 6</item>
+        <item>Quiz 7</item>
+        <item>Quiz 8</item>
+        <item>Quiz 9</item>
+        <item>Quiz 10</item>
+    </string-array>
+</resources>
